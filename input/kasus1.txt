@@ -1,0 +1,6 @@
+disks = 3
+methods = dfs,dls,ids
+pegs = 3
+dls_limit = 7
+initial_peg = 1
+goal_peg = 3

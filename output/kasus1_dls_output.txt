@@ -1,0 +1,14 @@
+Input file : kasus1.txt
+Jumlah disk: 3
+Metode     : DLS
+Waktu eksekusi: 0.000275700 detik
+
+Jumlah langkah: 7
+
+1. Pindahkan disk 1 dari tiang A ke tiang C
+2. Pindahkan disk 2 dari tiang A ke tiang B
+3. Pindahkan disk 1 dari tiang C ke tiang B
+4. Pindahkan disk 3 dari tiang A ke tiang C
+5. Pindahkan disk 1 dari tiang B ke tiang A
+6. Pindahkan disk 2 dari tiang B ke tiang C
+7. Pindahkan disk 1 dari tiang A ke tiang C

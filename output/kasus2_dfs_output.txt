@@ -1,0 +1,47 @@
+Input file : kasus2.txt
+Jumlah disk: 4
+Metode     : DFS
+Waktu eksekusi: 0.000175400 detik
+
+Jumlah langkah: 40
+
+1. Pindahkan disk 1 dari tiang A ke tiang B
+2. Pindahkan disk 2 dari tiang A ke tiang C
+3. Pindahkan disk 1 dari tiang B ke tiang A
+4. Pindahkan disk 1 dari tiang A ke tiang C
+5. Pindahkan disk 3 dari tiang A ke tiang B
+6. Pindahkan disk 1 dari tiang C ke tiang A
+7. Pindahkan disk 1 dari tiang A ke tiang B
+8. Pindahkan disk 2 dari tiang C ke tiang A
+9. Pindahkan disk 1 dari tiang B ke tiang A
+10. Pindahkan disk 1 dari tiang A ke tiang C
+11. Pindahkan disk 2 dari tiang A ke tiang B
+12. Pindahkan disk 1 dari tiang C ke tiang A
+13. Pindahkan disk 1 dari tiang A ke tiang B
+14. Pindahkan disk 4 dari tiang A ke tiang C
+15. Pindahkan disk 1 dari tiang B ke tiang A
+16. Pindahkan disk 1 dari tiang A ke tiang C
+17. Pindahkan disk 2 dari tiang B ke tiang A
+18. Pindahkan disk 1 dari tiang C ke tiang A
+19. Pindahkan disk 1 dari tiang A ke tiang B
+20. Pindahkan disk 2 dari tiang A ke tiang C
+21. Pindahkan disk 1 dari tiang B ke tiang A
+22. Pindahkan disk 1 dari tiang A ke tiang C
+23. Pindahkan disk 3 dari tiang B ke tiang A
+24. Pindahkan disk 1 dari tiang C ke tiang A
+25. Pindahkan disk 1 dari tiang A ke tiang B
+26. Pindahkan disk 2 dari tiang C ke tiang A
+27. Pindahkan disk 1 dari tiang B ke tiang A
+28. Pindahkan disk 1 dari tiang A ke tiang C
+29. Pindahkan disk 2 dari tiang A ke tiang B
+30. Pindahkan disk 1 dari tiang C ke tiang A
+31. Pindahkan disk 1 dari tiang A ke tiang B
+32. Pindahkan disk 3 dari tiang A ke tiang C
+33. Pindahkan disk 1 dari tiang B ke tiang A
+34. Pindahkan disk 1 dari tiang A ke tiang C
+35. Pindahkan disk 2 dari tiang B ke tiang A
+36. Pindahkan disk 1 dari tiang C ke tiang A
+37. Pindahkan disk 1 dari tiang A ke tiang B
+38. Pindahkan disk 2 dari tiang A ke tiang C
+39. Pindahkan disk 1 dari tiang B ke tiang A
+40. Pindahkan disk 1 dari tiang A ke tiang C

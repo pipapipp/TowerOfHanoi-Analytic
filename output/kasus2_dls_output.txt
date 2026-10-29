@@ -1,0 +1,6 @@
+Input file : kasus2.txt
+Jumlah disk: 4
+Metode     : DLS
+Waktu eksekusi: 0.000251200 detik
+
+Solusi tidak ditemukan dengan batas pencarian yang digunakan.
